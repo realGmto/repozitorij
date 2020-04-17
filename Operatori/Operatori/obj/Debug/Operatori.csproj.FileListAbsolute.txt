@@ -1,7 +1,0 @@
-C:\Users\JA\source\repos\Operatori\Operatori\obj\Debug\Operatori.csprojAssemblyReference.cache
-C:\Users\JA\source\repos\Operatori\Operatori\obj\Debug\Operatori.csproj.CoreCompileInputs.cache
-C:\Users\JA\source\repos\Operatori\Operatori\bin\Debug\Operatori.exe.config
-C:\Users\JA\source\repos\Operatori\Operatori\bin\Debug\Operatori.exe
-C:\Users\JA\source\repos\Operatori\Operatori\bin\Debug\Operatori.pdb
-C:\Users\JA\source\repos\Operatori\Operatori\obj\Debug\Operatori.exe
-C:\Users\JA\source\repos\Operatori\Operatori\obj\Debug\Operatori.pdb

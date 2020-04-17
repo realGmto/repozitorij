@@ -1,0 +1,7 @@
+C:\Users\JA\source\repos\Nastava\Nastava\bin\Debug\Nastava.exe.config
+C:\Users\JA\source\repos\Nastava\Nastava\bin\Debug\Nastava.exe
+C:\Users\JA\source\repos\Nastava\Nastava\bin\Debug\Nastava.pdb
+C:\Users\JA\source\repos\Nastava\Nastava\obj\Debug\Nastava.csprojAssemblyReference.cache
+C:\Users\JA\source\repos\Nastava\Nastava\obj\Debug\Nastava.csproj.CoreCompileInputs.cache
+C:\Users\JA\source\repos\Nastava\Nastava\obj\Debug\Nastava.exe
+C:\Users\JA\source\repos\Nastava\Nastava\obj\Debug\Nastava.pdb
